@@ -79,7 +79,7 @@
 - **Development Efficiency**: ROI 1,379,000% (137万9千%のROI実現)
 - **Time-to-Value**: 4 hours for full-stack MVP (4時間でMVP完成)
 - **Cost Optimization**: ¥6,039,562 cost reduction (604万円のコスト削減)
-- **Real Investment**: ¥97,110 crypto investment execution (実投資実行)
+- **Real Investment**: Millions of yen investment execution (実投資実行)
 
 ### 🎯 Unique Differentiators
 1. **Problem Discovery**: 本質的疑問からの出発点設定
